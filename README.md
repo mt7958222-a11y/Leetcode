@@ -18,12 +18,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
