@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/mt7958222-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mt7958222-a11y/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mt7958222-a11y/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Array
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/mt7958222-a11y/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mt7958222-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mt7958222-a11y/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/mt7958222-a11y/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mt7958222-a11y/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -73,8 +75,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/mt7958222-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mt7958222-a11y/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/mt7958222-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/mt7958222-a11y/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
