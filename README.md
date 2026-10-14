@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/mt7958222-a11y/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/mt7958222-a11y/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mt7958222-a11y/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/mt7958222-a11y/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0836-rectangle-overlap](https://github.com/mt7958222-a11y/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mt7958222-a11y/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,10 +147,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mt7958222-a11y/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
