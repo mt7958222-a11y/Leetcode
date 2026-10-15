@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0836-rectangle-overlap](https://github.com/mt7958222-a11y/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mt7958222-a11y/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
