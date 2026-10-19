@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mt7958222-a11y/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -189,4 +191,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
