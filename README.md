@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/mt7958222-a11y/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mt7958222-a11y/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
