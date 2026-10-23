@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mt7958222-a11y/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/mt7958222-a11y/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0067-add-binary](https://github.com/mt7958222-a11y/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/mt7958222-a11y/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/mt7958222-a11y/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mt7958222-a11y/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/mt7958222-a11y/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/mt7958222-a11y/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/mt7958222-a11y/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0836-rectangle-overlap](https://github.com/mt7958222-a11y/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -199,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/mt7958222-a11y/Leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
