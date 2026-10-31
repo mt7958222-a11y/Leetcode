@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/mt7958222-a11y/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/mt7958222-a11y/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/mt7958222-a11y/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mt7958222-a11y/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/mt7958222-a11y/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
