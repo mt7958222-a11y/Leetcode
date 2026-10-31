@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/mt7958222-a11y/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mt7958222-a11y/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/mt7958222-a11y/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/mt7958222-a11y/Leetcode/tree/main/0066-plus-one/) | Easy |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/mt7958222-a11y/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
