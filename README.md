@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mt7958222-a11y/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mt7958222-a11y/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mt7958222-a11y/Leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mt7958222-a11y/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/mt7958222-a11y/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
