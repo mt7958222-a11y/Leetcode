@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mt7958222-a11y/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/mt7958222-a11y/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Bracket Sequences
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mt7958222-a11y/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
