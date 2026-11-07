@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mt7958222-a11y/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/mt7958222-a11y/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/mt7958222-a11y/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/mt7958222-a11y/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/mt7958222-a11y/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mt7958222-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mt7958222-a11y/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -271,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2747-count-zero-request-servers](https://github.com/mt7958222-a11y/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/mt7958222-a11y/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
