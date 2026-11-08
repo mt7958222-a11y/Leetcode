@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/mt7958222-a11y/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0228-summary-ranges](https://github.com/mt7958222-a11y/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mt7958222-a11y/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/mt7958222-a11y/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
