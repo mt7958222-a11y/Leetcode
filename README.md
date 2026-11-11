@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mt7958222-a11y/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mt7958222-a11y/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mt7958222-a11y/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mt7958222-a11y/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mt7958222-a11y/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
