@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/mt7958222-a11y/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mt7958222-a11y/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/mt7958222-a11y/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
