@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mt7958222-a11y/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/mt7958222-a11y/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/mt7958222-a11y/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mt7958222-a11y/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0039-combination-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
