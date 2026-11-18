@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/mt7958222-a11y/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0118-pascals-triangle](https://github.com/mt7958222-a11y/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0228-summary-ranges](https://github.com/mt7958222-a11y/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/mt7958222-a11y/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mt7958222-a11y/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0118-pascals-triangle](https://github.com/mt7958222-a11y/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/1025-divisor-game/) | Easy |
