@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/mt7958222-a11y/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mt7958222-a11y/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/mt7958222-a11y/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/mt7958222-a11y/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/mt7958222-a11y/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/mt7958222-a11y/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mt7958222-a11y/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/mt7958222-a11y/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mt7958222-a11y/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mt7958222-a11y/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/mt7958222-a11y/Leetcode/tree/main/0143-reorder-list/) | Medium |
