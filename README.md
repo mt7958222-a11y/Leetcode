@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/mt7958222-a11y/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/mt7958222-a11y/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mt7958222-a11y/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mt7958222-a11y/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mt7958222-a11y/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mt7958222-a11y/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/mt7958222-a11y/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/mt7958222-a11y/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/mt7958222-a11y/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -254,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/mt7958222-a11y/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -299,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/mt7958222-a11y/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/mt7958222-a11y/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Matrix
