@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/mt7958222-a11y/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mt7958222-a11y/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mt7958222-a11y/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mt7958222-a11y/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mt7958222-a11y/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
